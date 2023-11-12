@@ -7,4 +7,15 @@ My list of repositories and websites that helped me do some cool coding stuff
 
 [Discord live status as image (not a repo tho)](https://discord.c99.nl/)
 
+## Awesome learning resources (link descriptions coming soon™)
+
+https://github.com/EbookFoundation/free-programming-books
+https://github.com/btw-so/open-source-alternatives
+https://github.com/codecrafters-io/build-your-own-x
+https://github.com/donnemartin/system-design-primer
+https://github.com/jwasham/coding-interview-university
+https://github.com/kamranahmedse/developer-roadmap
+https://github.com/ossu/computer-science
+https://github.com/sindresorhus/awesome
+
 This list is still WIP.
