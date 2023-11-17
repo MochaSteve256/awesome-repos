@@ -7,9 +7,10 @@ My list of repositories and websites that helped me do some cool coding stuff
 
 [Discord live status as image (not a repo tho)](https://discord.c99.nl/)
 
+## Libraries
 [Minecraft server status in python](https://github.com/py-mine/mcstatus)
 
-[Nice discord bot lobrary in python](https://github.com/Pycord-Development/pycord)
+[Nice discord bot library in python](https://github.com/Pycord-Development/pycord)
 ## Awesome learning resources (link descriptions coming soon™)
 
 https://github.com/EbookFoundation/free-programming-books
