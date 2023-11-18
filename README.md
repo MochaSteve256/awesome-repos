@@ -5,15 +5,18 @@ My list of repositories and websites that helped me do some cool coding stuff
 
 [GitHub ReadMe stats for a clean profile](https://github.com/anuraghazra/github-readme-stats)
 
-## Misc
+## Discord
 [Discord live status as image](https://discord.c99.nl/)
 
 [Discord timestamps](https://r.3v.fi/discord-timestamps/)
+
+[Discord ID lookup](https://discord.id/)
 
 ## Libraries
 [Minecraft server status in python](https://github.com/py-mine/mcstatus)
 
 [Nice discord bot library in python](https://github.com/Pycord-Development/pycord)
+
 ## Awesome learning resources (link descriptions coming soon™)
 
 https://github.com/EbookFoundation/free-programming-books
