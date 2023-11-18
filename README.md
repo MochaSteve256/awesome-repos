@@ -6,7 +6,7 @@ My list of repositories and websites that helped me do some cool coding stuff
 [GitHub ReadMe stats for a clean profile](https://github.com/anuraghazra/github-readme-stats)
 
 ## Misc
-[Discord live status as image (not a repo tho)](https://discord.c99.nl/)
+[Discord live status as image](https://discord.c99.nl/)
 
 [Discord timestamps](https://r.3v.fi/discord-timestamps/)
 
