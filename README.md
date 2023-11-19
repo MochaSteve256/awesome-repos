@@ -17,6 +17,9 @@ My list of repositories and websites that helped me do some cool coding stuff
 
 [Nice discord bot library in python](https://github.com/Pycord-Development/pycord)
 
+## Misc.
+[Super Mario World ROM hacking basics](https://www.smwcentral.net/?p=beginners)
+
 ## Awesome learning resources (link descriptions coming soon™)
 
 https://github.com/EbookFoundation/free-programming-books
